@@ -14,7 +14,7 @@
         "path" : "cicoolbuilder/disable-builder",
         "author" : "muhamad ridwan",
         "version" : "1.0",
-        "compatible" : ">=2.6.9",
+        "compatible" : ">=2.6.7",
         "icon" : "https://github.com/cicoolbuilder/disable-builder/blob/master/logo.png?raw=true"
     }
 ]

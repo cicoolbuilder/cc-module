@@ -29,7 +29,7 @@
     {
         "name" : "Disquss Blog",
         "description" : "disquss",
-        "path" : "disquss",
+        "path" : "cicoolbuilder/disquss",
         "author" : "muhamad ridwan",
         "version" : "1.0",
         "compatible" : ">=2.8.0",

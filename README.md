@@ -1,3 +1,3 @@
-# cc-extension
+# cc-module
 
-list all extension for cicool codeigniter
+list all module for cicool codeigniter

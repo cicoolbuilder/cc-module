@@ -4,7 +4,7 @@
         "description" : "Cicool Ecommerce  - $20",
         "author" : "muhamad ridwan - Codecanyon",
         "version" : "1.0",
-        "compatible" : ">=2.8.0",
+        "compatible" : ">=3.0.0",
         "path" : "cicoolbuilder/ecommerce",
         "url" : "https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897",
         "icon" : "https://github.com/cicoolbuilder/material-theme/blob/master/logo.png?raw=true"

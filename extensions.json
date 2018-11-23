@@ -1,8 +1,8 @@
 [
     {
         "name" : "Cicool Ecommerce",
-        "description" : "Cicool Ecommerce",
-        "author" : "muhamad ridwan",
+        "description" : "Cicool Ecommerce  - $20",
+        "author" : "muhamad ridwan - Codecanyon",
         "version" : "1.0",
         "compatible" : ">=2.8.0",
         "path" : "cicoolbuilder/ecommerce",

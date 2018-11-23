@@ -1,38 +1,11 @@
 [
     {
-        "name" : "Material Theme",
-        "description" : "Material Theme for cicool builder",
-        "path" : "cicoolbuilder/material-theme",
-        "author" : "muhamad ridwan",
-        "version" : "1.0",
-        "compatible" : ">=2.6.6",
-        "icon" : "https://github.com/cicoolbuilder/material-theme/blob/master/logo.png?raw=true"
-    },
-    {
-        "name" : "Disable Builder",
-        "description" : "Disable Builder",
-        "path" : "cicoolbuilder/disable-builder",
-        "author" : "muhamad ridwan",
-        "version" : "1.0",
-        "compatible" : ">=2.6.7",
-        "icon" : "https://github.com/cicoolbuilder/disable-builder/blob/master/logo.png?raw=true"
-    },
-    {
-        "name" : "Backup Restore Database",
-        "description" : "backup-restore-database",
-        "path" : "cicoolbuilder/backup-restore-database",
-        "author" : "muhamad ridwan",
-        "version" : "1.0",
-        "compatible" : ">=2.7.0",
-        "icon" : "https://github.com/cicoolbuilder/backup-restore-database/blob/master/logo.png?raw=true"
-    },
-    {
-        "name" : "Disquss Blog",
-        "description" : "disquss",
-        "path" : "cicoolbuilder/disquss",
+        "name" : "Cicool Ecommerce",
+        "description" : "Cicool Ecommerce",
         "author" : "muhamad ridwan",
         "version" : "1.0",
         "compatible" : ">=2.8.0",
-        "icon" : "https://github.com/cicoolbuilder/disquss/blob/master/logo.png?raw=true"
+        "url" : "https://codecanyon.net/item/cicool-page-form-rest-api-and-crud-generator/19207897",
+        "icon" : "https://github.com/cicoolbuilder/material-theme/blob/master/logo.png?raw=true"
     }
 ]
